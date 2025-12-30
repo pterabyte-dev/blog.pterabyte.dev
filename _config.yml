@@ -26,8 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.pterabyte.dev"
 
 github:
-  username: pterabyte # change to your GitHub username
+  username: pterabyte-dev # change to your GitHub username
 
+youtube:
+  username: pterabyte
 #twitter:
 #  username: twitter_username # change to your Twitter username
 
@@ -41,6 +43,7 @@ social:
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/pterabyte-dev # change to your GitHub homepage
     # Uncomment below to add more social links
+    - https://youtube.com/@pterabyte
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
