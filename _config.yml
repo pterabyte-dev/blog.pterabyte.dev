@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: pterabyte # the main title
 
-tagline: Homelab experimentation and knowledge sharing
+tagline: A place for homelab experimentation and knowledge sharing
 
 description: >- # used by seo meta and the atom feed
-  Homelab experimentation and knowledge sharing.
+  A place for homelab experimentation and knowledge sharing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
