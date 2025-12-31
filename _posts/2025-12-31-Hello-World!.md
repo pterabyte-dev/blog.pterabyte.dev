@@ -7,7 +7,7 @@ author: default
 description: Look at that, a new site where I can share my configurations, testing, and thoughts on different topics relating to Docker, TrueNAS, networking, and homelab in general
 toc: true
 comments: true
-media_subpath: /assets/posts/hello-world-12312025/
+media_subpath: /assets/posts/2025-12-31-Hello-World!/
 image:
   path: img/preview.webp
   lqip: img/preview-lqip.webp
