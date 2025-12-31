@@ -24,7 +24,8 @@ If you have any questions or comments, please feel free to reach out via the soc
 {% assign email_parts = site.social.email | split: '@' %}
 <a href="javascript:void(0)" 
    onclick="window.location.href = 'mailto:' + ['{{ email_parts[0] }}','{{ email_parts[1] }}'].join('@');"
-   class="btn btn-primary">
+   class="btn"
+   style="background-color: var(--sidebar-active-color); color: var(--card-bg); border: none;">
   <i class="fas fa-envelope"></i> Email Me
 </a>
 {: .text-center }
