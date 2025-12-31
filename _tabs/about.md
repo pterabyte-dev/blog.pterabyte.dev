@@ -16,5 +16,8 @@ so much from setting up my own services, though I still have a ways to go.
 If anyone has any questions or comments, please feel free to reach out via any of the included social links.
 In the mean time, have fun exploring my blog.
 
-[info@pterabyte.dev](mailto:info@pterabyte.dev)
+{% assign email_parts = site.social.email | split: '@' %}
+<a href="javascript:location.href = 'mailto:' + ['{{ email_parts[0] }}','{{ email_parts[1] }}'].join('@')">
+  Contact
+</a>
 {: .text-center }
