@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-rb.svg)
 
-Welcome to the source code for **[pterabyte.dev](https://pterabyte.dev)**.
+Welcome to the source code for **[blog.pterabyte.dev](https://blog.pterabyte.dev)**.
 
 This site is a technical blog documenting my journey as a **Network Architect** and **Homelab Enthusiast**. It serves as a repository for knowledge, configurations, and "lessons learned" regarding enterprise networking, TrueNAS Scale, and Docker.
 
