@@ -1,10 +1,10 @@
+
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
-# Hello Everyone! 👋
-{: .text-center }
+## Hello Everyone! 👋
 
 By day, I work as a **Network Architect** developing and supporting solutions for customers. By night, I satisfy my curiosity by experimenting in my homelab. 
 
@@ -20,8 +20,6 @@ Most of my professional experience revolves around enterprise routing, switching
 
 I have already learned so much from setting up my own services, though I still have a ways to go.
 
----
-
 ### **Get in Touch**
 If you have any questions or comments, please feel free to reach out via the social links in the sidebar or send me an email directly below.
 
@@ -32,5 +30,3 @@ If you have any questions or comments, please feel free to reach out via the soc
   <i class="fas fa-envelope"></i> Email Me
 </a>
 {: .text-center }
-
-In the meantime, have fun exploring my blog!
