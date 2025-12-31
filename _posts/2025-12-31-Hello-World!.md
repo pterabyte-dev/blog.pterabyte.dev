@@ -8,8 +8,8 @@ toc: true
 comments: true
 media_subpath: /assets/posts/2025-12-31-Hello-World!/
 image:
-  path: img/preview.webp
-  lqip: img/preview-lqip.webp
+  path: preview.webp
+  lqip: preview-lqip.webp
 ---
 **Hello Everyone!** 👋
 Welcome to my new blog. The purpose of this site is to document my testing and development journey while sharing useful configurations, scripts, and "lessons learned" with the homelab community.
