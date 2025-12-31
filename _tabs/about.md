@@ -8,7 +8,7 @@ order: 4
 By day, I work as a **Network Architect** developing and supporting solutions for customers. By night, I satisfy my curiosity by experimenting in my homelab. 
 The purpose of this blog is to document my testing and development journey while sharing useful knowledge and configurations with all of you.
 
-### **My Homelab Focus**
+### My Homelab Focus
 
 Most of my professional experience revolves around enterprise routing, switching, and NAC, but my homelab allows me to branch out. Currently, I am focusing on:
 
@@ -18,7 +18,7 @@ Most of my professional experience revolves around enterprise routing, switching
 
 I have already learned so much from setting up my own services, though I still have a ways to go.
 
-### **Get in Touch**
+### Get in Touch
 If you have any questions or comments, please feel free to reach out via the social links in the sidebar or send me an email directly below.
 
 {% assign email_parts = site.social.email | split: '@' %}
