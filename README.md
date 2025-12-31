@@ -30,5 +30,5 @@ If you wish to test this repository locally:
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/pterabyte/blog.pterabyte.dev.git](https://github.com/pterabyte/blog.pterabyte.dev.git)
+   git clone https://github.com/pterabyte/blog.pterabyte.dev.git
    cd blog.pterabyte.dev
