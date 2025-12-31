@@ -1,6 +1,6 @@
 # Pterabyte.dev Blog
 
-[![Build Status](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/jekyll.yml/badge.svg)](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/jekyll.yml)
+[![Build and Deploy](https://github.com/pterabyte-dev/blog.pterabyte.dev/actions/workflows/jekyll.yml/badge.svg?branch=master)](https://github.com/pterabyte-dev/blog.pterabyte.dev/actions/workflows/jekyll.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-rb.svg)
 
