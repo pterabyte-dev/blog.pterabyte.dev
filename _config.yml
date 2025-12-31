@@ -212,6 +212,7 @@ exclude:
   - docs
   - tools
   - templates
+  - drafts
   - README.md
   - LICENSE
   - purgecss.js
