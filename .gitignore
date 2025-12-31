@@ -23,6 +23,6 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
-drafts
-templates
+.drafts
+.templates
 .local
