@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 date: 2025-12-31 01:38:00 -0500
-categories: [General]
+categories: [Announcements]
 tags: [homelab, networking, truenas]
 description: An introduction to my new homelab blog. Join me as I document my journey with TrueNAS Scale, Docker networking, and sharing 'lessons learned' for fellow enthusiasts.
 toc: true
