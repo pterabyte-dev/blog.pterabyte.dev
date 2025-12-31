@@ -6,7 +6,7 @@
 
 Welcome to the source code for **[blog.pterabyte.dev](https://blog.pterabyte.dev)**.
 
-This site is a technical blog documenting my journey as a **Network Architect** and **Homelab Enthusiast**. It serves as a repository for knowledge, configurations, and "lessons learned" regarding enterprise networking, TrueNAS Scale, and Docker.
+This site is a technical blog documenting my journey as a **Network Architect** and **Homelab Enthusiast**. It serves as a repository for knowledge, configurations, and "lessons learned" regarding networking, TrueNAS Scale, and Docker.
 
 ## 🚀 About The Project
 
