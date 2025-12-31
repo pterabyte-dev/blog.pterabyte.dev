@@ -1,84 +1,35 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
+# Pterabyte.dev Blog
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+![Build Status](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/pages/pages-build-deployment/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-rb.svg)
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+Welcome to the source code for **[pterabyte.dev](https://pterabyte.dev)**.
 
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
+This site is a technical blog documenting my journey as a **Network Architect** and **Homelab Enthusiast**. It serves as a repository for knowledge, configurations, and "lessons learned" regarding enterprise networking, TrueNAS Scale, and Docker.
 
-  [**Live Demo** →][demo]
+## 🚀 About The Project
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+The purpose of this blog is to bridge the gap between networking concepts and homelab environments. It documents testing and development, specifically focusing on how to make complex networking behaviors (like MACVLAN/IPVLAN) work reliably within containerized environments.
 
-</div>
+### Key Topics
+* **TrueNAS Scale:** Advanced configuration, storage management, and networking.
+* **Docker:** Custom networking, `docker-compose` strategies, and container isolation.
+* **Networking:** Enterprise routing, switching, NAC, and `iptables` management.
+* **Automation:** Scripts and tools to maintain the lab.
 
-## Features
+## 🛠️ Tech Stack & Features
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+This site is built as a Static Site using **Jekyll** and hosted via **GitHub Pages**.
 
-## Documentation
+### Theme
+This repository uses the **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)** theme by Cotes2020. It was chosen for its clean, text-focused design, responsiveness, and built-in dark mode support.
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+## 💻 Local Development
 
-## Contributing
+If you wish to test this repository locally:
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
-
-## Credits
-
-### Contributors
-
-Thanks to [all the contributors][contributors] involved in the development of the project!
-
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
-
-### Third-Party Assets
-
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
-
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
-
-## License
-
-This project is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+1. **Clone the repo**
+   ```bash
+   git clone [https://github.com/pterabyte/blog.pterabyte.dev.git](https://github.com/pterabyte/blog.pterabyte.dev.git)
+   cd blog.pterabyte.dev
