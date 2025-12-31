@@ -1,4 +1,3 @@
-
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -7,7 +6,6 @@ order: 4
 ## Hello Everyone! 👋
 
 By day, I work as a **Network Architect** developing and supporting solutions for customers. By night, I satisfy my curiosity by experimenting in my homelab. 
-
 The purpose of this blog is to document my testing and development journey while sharing useful knowledge and configurations with all of you.
 
 ### **My Homelab Focus**
