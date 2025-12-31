@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: 2025-12-31 01:38:00
+date: 2025-12-31 01:38:00 -0500
 categories: [General]
 tags: [homelab, networking, truenas]
 description: An introduction to my new homelab blog. Join me as I document my journey with TrueNAS Scale, Docker networking, and sharing 'lessons learned' for fellow enthusiasts.
@@ -12,6 +12,7 @@ image:
   lqip: preview-lqip.webp
 ---
 **Hello Everyone!** 👋
+
 Welcome to my new blog. The purpose of this site is to document my testing and development journey while sharing useful configurations, scripts, and "lessons learned" with the homelab community.
 By day, I work as a Network Architect, but by night, I am usually breaking (and fixing) things in my homelab. My primary focus lately has been on **TrueNAS Scale**, **Docker**, and advanced networking configurations.
 If you have ever spent hours searching for a specific configuration only to find a forum post from 2013 that *almost* helps, this blog is for you. My goal is to share the information I wish I had when I originally ran into these issues.
