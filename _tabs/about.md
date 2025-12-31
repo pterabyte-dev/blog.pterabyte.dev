@@ -17,7 +17,8 @@ If anyone has any questions or comments, please feel free to reach out via any o
 In the mean time, have fun exploring my blog.
 
 {% assign email_parts = site.social.email | split: '@' %}
-<a href="javascript:location.href = 'mailto:' + ['{{ email_parts[0] }}','{{ email_parts[1] }}'].join('@')">
+<a href="javascript:void(0)" 
+   onclick="window.open('mailto:' + ['{{ email_parts[0] }}','{{ email_parts[1] }}'].join('@'), '_blank'); return false;">
   Contact
 </a>
 {: .text-center }
