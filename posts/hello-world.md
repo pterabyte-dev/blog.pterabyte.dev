@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: 2025-12-31 00:38:00 +/-TTTT
+date: 2025-12-31 00:38:00
 categories: [Blog]
 tags: [blog]
 author: default
