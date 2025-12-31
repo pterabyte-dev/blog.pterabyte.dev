@@ -1,6 +1,6 @@
 # Pterabyte.dev Blog
 
-![Build Status](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![Build Status](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/jekyll.yml/badge.svg)](https://github.com/pterabyte/blog.pterabyte.dev/actions/workflows/jekyll.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Jekyll](https://img.shields.io/badge/Made%20with-Jekyll-rb.svg)
 
@@ -15,7 +15,6 @@ The purpose of this blog is to bridge the gap between networking concepts and ho
 ### Key Topics
 * **TrueNAS Scale:** Advanced configuration, storage management, and networking.
 * **Docker:** Custom networking, `docker-compose` strategies, and container isolation.
-* **Networking:** Enterprise routing, switching, NAC, and `iptables` management.
 * **Automation:** Scripts and tools to maintain the lab.
 
 ## 🛠️ Tech Stack & Features
